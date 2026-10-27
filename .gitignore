@@ -1,0 +1,6 @@
+# Local credentials and generated Python cache
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
